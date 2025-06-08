@@ -150,4 +150,4 @@ dependencies:
       - pdfplumber==0.11.2
       - pillow==10.4.0
       - pypdfium2==4.30.0
-prefix: /Users/jamesroberts/anaconda3/envs/pdfconvert
+
